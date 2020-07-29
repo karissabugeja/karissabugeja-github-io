@@ -6,7 +6,7 @@ In this website, you can find many popluar songs which I have arranged for alto 
 
 
 ## I Gotta Feeling by Black Eyed Peas 1st Alto Saxophone
-![<img width="559" alt="saxophone music sheet for website" src="https://user-images.githubusercontent.com/42961969/88719808-264f9900-d124-11ea-93a8-4b7c8592bbd7.PNG">]
+<img width="559" alt="saxophone music sheet for website" src="https://user-images.githubusercontent.com/42961969/88719808-264f9900-d124-11ea-93a8-4b7c8592bbd7.PNG">
 ## I Gotta Feeling by Black Eyed Peas 2nd Alto Saxophone
 ![image][]<img width="556" alt="Capture" src="https://user-images.githubusercontent.com/42961969/88720176-bab9fb80-d124-11ea-981b-f2ec8c01f42d.PNG">]
 
