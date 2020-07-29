@@ -10,7 +10,7 @@ In this website, you can find many popluar songs which I have arranged for alto 
 ## I Gotta Feeling by Black Eyed Peas 2nd Alto Saxophone
 <img width="556" alt="Capture" src="https://user-images.githubusercontent.com/42961969/88720176-bab9fb80-d124-11ea-981b-f2ec8c01f42d.PNG">
 
-## Header 3
+## More Info
 For those who want to play with the music, this is the track from YouTube: [Let's go to YouTube](https://www.youtube.com/watch?v=CwdrtwZiQ9E)
 
 **For more content follow me on [YouTube](https://www.youtube.com/channel/UCZez7LgF4CbQYJm0jl_XbSw) or [Instagram](https://www.instagram.com/?hl=en)**
